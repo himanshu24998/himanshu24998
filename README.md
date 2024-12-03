@@ -3,7 +3,7 @@
 <h3 align="center">A passionate MERN stack developer with a passion for building dynamic applications.</h3>
 <img align="right" alt="Coding" width="400" src="https://pixelsbyumair.wordpress.com/wp-content/uploads/2014/12/cssgif.gif">
 
-- 🔭 I’m currently working on [Google and Local Authentication](https://github.com/himanshu24998/MERN-Google-and-local-authentication)
+- 🔭 I’m currently working on [Music Distribution App](https://github.com/himanshu24998/Music-Distribution-App)
 
 - 🌱 I’m currently learning **Express.js**
 
