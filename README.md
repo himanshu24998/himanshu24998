@@ -11,7 +11,7 @@
 
 - 📫 How to reach me **agarwalh249@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1zQixOc2_KLQsGhcGV9LIcHmeunzuxuBn/view?usp=sharing](https://drive.google.com/file/d/1zQixOc2_KLQsGhcGV9LIcHmeunzuxuBn/view?usp=sharing)
+- 📄 My Resume [https://drive.google.com/file/d/1bYM6zd5IobYsMWEzVK45cUatFurtNUpS/view?usp=drive_link](https://drive.google.com/file/d/1bYM6zd5IobYsMWEzVK45cUatFurtNUpS/view?usp=drive_link)
 
 - Fun fact⚡ **When I'm not coding, you'll find me immersed in video editing and music production**
 
