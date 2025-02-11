@@ -3,9 +3,8 @@
 <h3 align="center">A passionate MERN stack developer with a passion for building dynamic applications.</h3>
 <img align="right" alt="Coding" width="400" src="https://pixelsbyumair.wordpress.com/wp-content/uploads/2014/12/cssgif.gif">
 
-- 🌱 I’m currently learning **Express.js**
 
-- 💬 Ask me about **MERN**
+- 🌱 I’m currently learning **Next.js**
 
 - 📫 How to reach me **agarwalh249@gmail.com**
 
