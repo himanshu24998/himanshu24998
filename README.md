@@ -1,6 +1,6 @@
 ![MasterHead](https://img.freepik.com/free-vector/gradient-business-linkedin-banner_23-2150091566.jpg?t=st=1731044202~exp=1731047802~hmac=07a2bd80a3b13d36e229208f01e2cd69ba1656ee578df5f624a1c841fdaccda3&w=1380)
 <h1 align="center">Hi 👋, I'm Himanshu Singhal</h1>
-<h3 align="center">A passionate MERN stack developer with a passion for building dynamic applications.</h3>
+<h3 align="center">A passionate Next.js developer with a passion for building dynamic applications.</h3>
 <img align="right" alt="Coding" width="400" src="https://pixelsbyumair.wordpress.com/wp-content/uploads/2014/12/cssgif.gif">
 
 
