@@ -24,6 +24,11 @@ I specialize in **Next.js**, creating high-performance web applications that **e
 </a>
 
 ---
+<div align="center">
+  <img src="https://github.com/himanshu24998/himanshu24998/blob/output/github-snake-dark.svg" width="100%" alt="Snake animation"/>
+</div>
+
+---
 
 ### 🛠️ Languages and Tools  
 <p align="left">
