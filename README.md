@@ -30,6 +30,14 @@ I specialize in **Next.js**, creating high-performance web applications that **e
 
 ---
 
+### 🔥 GitHub Contribution Graph
+
+<p align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=himanshu24998&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
+</p>
+
+---
+
 ### 🛠️ Languages and Tools  
 <p align="left">
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
