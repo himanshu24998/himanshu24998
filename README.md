@@ -25,6 +25,10 @@ I specialize in **Next.js**, creating high-performance web applications that **e
 
 ---
 
+![snake gif](https://github.com/himanshu24998/himanshu24998/blob/output/github-contribution-grid-snake.gif)
+
+---
+
 ### 🛠️ Languages and Tools  
 <p align="left">
   <a href="https://nextjs.org/" target="_blank" rel="noreferrer">
