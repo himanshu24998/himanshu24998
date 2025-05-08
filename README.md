@@ -1,7 +1,7 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3759de&height=120&section=header" alt="header"/> 
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0EA5E9&height=120&section=header" alt="header"/> 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=3759de&width=435&lines=Hi+👋%2C+it's+Himanshu+Singhal;Thank+you+for+visiting+☺️." alt="Business Analyst"/>
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=0EA5E9&width=435&lines=Hi+👋%2C+it's+Himanshu+Singhal;Thank+you+for+visiting+☺️." alt="Business Analyst"/>
 </a>
 </h1>
 
@@ -169,4 +169,4 @@ I specialize in **Next.js**, creating high-performance web applications that **e
   <img src="https://profile-counter.glitch.me/{himanshu24998}/count.svg" alt="BankkRoll :: Visitor's Count" />
 </div>
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3759de&height=120&section=footer" alt="footer"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0EA5E9&height=120&section=footer" alt="footer"/>
