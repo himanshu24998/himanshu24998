@@ -153,6 +153,8 @@ I specialize in **Next.js**, creating high-performance web applications that **e
   </a>
 </p>
 
+---
+
 <div align="center">
   <h2>
     <img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" height="30" style="margin-right: 10px;">
