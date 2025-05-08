@@ -2,10 +2,12 @@
 <h1 align="center">Hi 👋, I'm Himanshu Singhal</h1>
 <h3 align="center">Next.js Developer | Passionate about Building Scalable and Engaging Web Apps</h3>
 
-<img align="right" alt="Coding" width="400" src="https://pixelsbyumair.wordpress.com/wp-content/uploads/2014/12/cssgif.gif">
+<table>
+  <tr>
+    <td width="50%">
 
 🚀 **About Me**  
-I specialize in **Next.js**, creating high-performance web applications that **enhance user experience and engagement**. My work focuses on building scalable solutions, from **interactive 3D experiences** to **business automation tools**.
+I specialize in **Next.js**, creating high-performance web applications that **enhance user experience and engagement**. My work focuses on building scalable solutions, from **interactive 3D experiences** to **business automation tools**.  
 
 🔹 **Expertise in:** Next.js, React, Node.js, MongoDB, and TypeScript  
 🔹 **Projects include:** 3D & AR-powered restaurant menus and an intuitive online invoice generator  
@@ -15,6 +17,16 @@ I specialize in **Next.js**, creating high-performance web applications that **e
 📄 **Resume:** [View Here](https://drive.google.com/file/d/1bYM6zd5IobYsMWEzVK45cUatFurtNUpS/view?usp=drive_link)  
 
 ⚡ **Fun Fact:** When I'm not coding, I enjoy **video editing and music production**  
+
+</td>
+<td width="50%" align="center">
+
+<img src="https://pixelsbyumair.wordpress.com/wp-content/uploads/2014/12/cssgif.gif" width="300"><br><br>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu24998&langs_count=8&layout=compact&theme=react&border_color=0EA5E9&bg_color=0D1117&title_color=0EA5E9&icon_color=0EA5E9" height="180em" />
+
+</td>
+</tr>
+</table>
 
 ---
 
@@ -140,3 +152,12 @@ I specialize in **Next.js**, creating high-performance web applications that **e
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/>
   </a>
 </p>
+
+<div align="center">
+  <h2>
+    <img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" height="30" style="margin-right: 10px;">
+    <b>Visitor Count</b>
+    <img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" height="30" style="margin-left: 10px;">
+  </h2>
+  <img src="https://profile-counter.glitch.me/{himanshu24998}/count.svg" alt="BankkRoll :: Visitor's Count" />
+</div>
