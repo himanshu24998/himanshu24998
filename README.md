@@ -19,11 +19,11 @@ I specialize in **Next.js**, creating high-performance web applications that **e
 ---
 
 ### 🌐 Connect with Me  
-<a href="https://linkedin.com/in/himanshu249" target="blank">
+<a href="https://linkedin.com/in/himanshu249" target="_blank">
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="himanshu249" height="30" width="40"/>
 </a>
 
-<a href="https://himanshu-portfolio-resume.vercel.app/" target="blank">
+<a href="https://himanshu-portfolio-resume.vercel.app/" target="_blank">
   <img align="center" src="https://media-hosting.imagekit.io/4b0409d179e5401f/world-wide-web.png?Expires=1841299283&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=1trwpSz2mDxyfbGgC7vaUI0gvFYxLVY5cX6HYqDg41pEFuD9GtIh6Cvgt0ng-WPEremfAoqJQkCudRUl5wdq-ASUYPyQFbUr2n0FVt-XFGusSMjqqEzxFSmfm2TpmXpXR3-hLYNH0pvUuHafMie-ZBzKkNeUz~gDv3cjQoUKwE2V1FX7wxk1Jpm--qmDbupY2ilJ010Mi6IltFUqUIThaEv35Iamie7hnPKFIpbU2cfMNBw1-dyhlwRH-OYR-c6601jhrdex8O8ODy--VmDEbj1poGf3Bl1i97z37zuQAqL8pP4zUUsIldfELZirpChx1Di3hTtghwszLWK61ukigg__" alt="himanshu24998" height="30" width="30"/>
 </a>
 
