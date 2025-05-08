@@ -23,6 +23,10 @@ I specialize in **Next.js**, creating high-performance web applications that **e
   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="himanshu249" height="30" width="40"/>
 </a>
 
+<a href="https://himanshu-portfolio-resume.vercel.app/" target="blank">
+  <img align="center" src="https://media-hosting.imagekit.io/4b0409d179e5401f/world-wide-web.png?Expires=1841299283&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=1trwpSz2mDxyfbGgC7vaUI0gvFYxLVY5cX6HYqDg41pEFuD9GtIh6Cvgt0ng-WPEremfAoqJQkCudRUl5wdq-ASUYPyQFbUr2n0FVt-XFGusSMjqqEzxFSmfm2TpmXpXR3-hLYNH0pvUuHafMie-ZBzKkNeUz~gDv3cjQoUKwE2V1FX7wxk1Jpm--qmDbupY2ilJ010Mi6IltFUqUIThaEv35Iamie7hnPKFIpbU2cfMNBw1-dyhlwRH-OYR-c6601jhrdex8O8ODy--VmDEbj1poGf3Bl1i97z37zuQAqL8pP4zUUsIldfELZirpChx1Di3hTtghwszLWK61ukigg__" alt="himanshu24998" height="30" width="30"/>
+</a>
+
 ---
 <div align="center">
   <img src="https://github.com/himanshu24998/himanshu24998/blob/output/github-snake-dark.svg" width="100%" alt="Snake animation"/>
@@ -32,9 +36,68 @@ I specialize in **Next.js**, creating high-performance web applications that **e
 
 ### 🔥 GitHub Contribution Graph
 
-<p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=himanshu24998&theme=tokyo-night&hide_border=true" alt="GitHub Activity Graph" />
-</p>
+<div align="center">
+    <img src="https://github-readme-activity-graph.vercel.app/graph?username=himanshu24998&theme=react-dark&bg_color=0D1117&hide_border=true&line=07D8FF&point=9600bf&color=FFFFFF" width="100%" alt="Activity Graph" />
+  </div>
+
+---
+<div align="center">
+  <h2>
+    <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30" height="30" style="margin-right: 10px;">
+    <b>Tech Stack</b>
+    <img src="https://media.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif" width="30" height="30" style="margin-left: 10px;">
+  </h2>
+</div>
+<table>
+  <tr>
+    <td valign="top" width="50%">
+      <h3 align="center">
+        <img src="https://media.giphy.com/media/IdyAQJVN2kVPNUrojM/giphy.gif" width="20" height="20"> Frontend
+      </h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React" />
+        <img src="https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white" alt="Next.js" />
+        <img src="https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
+        <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
+        <img src="https://img.shields.io/badge/-Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind CSS" />
+        <img src="https://img.shields.io/badge/-Framer_Motion-0055FF?style=for-the-badge&logo=framer&logoColor=white" alt="Framer Motion" />
+        <img src="https://img.shields.io/badge/-Styled_Components-DB7093?style=for-the-badge&logo=styled-components&logoColor=white" alt="Styled Components" />
+        <img src="https://img.shields.io/badge/-CSS-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS" />
+      </div>
+    </td>
+    <td valign="top" width="50%">
+      <h3 align="center">
+        <img src="https://media.giphy.com/media/UoLt6Tm8wlSnWGfSFs/giphy.gif" width="20" height="20"> Backend
+      </h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white" alt="Node.js" />
+        <img src="https://img.shields.io/badge/-Express-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
+        <img src="https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="Python" />
+        <img src="https://img.shields.io/badge/-API_Development-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="API Development" />
+      </div>
+    </td>
+  </tr>
+  <tr>
+    <td valign="top" width="50%">
+      <h3 align="center">
+        <img src="https://media.giphy.com/media/eNAsjO55tPbgaor7ma/giphy.gif" width="20" height="20"> Data & APIs
+      </h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/-Axios-5A29E4?style=for-the-badge&logo=axios&logoColor=white" alt="Axios" />
+      </div>
+    </td>
+    <td valign="top" width="50%">
+      <h3 align="center">
+        <img src="https://media.giphy.com/media/v1.Y2lkPTc5MGI3NjExcmd0a3Z3NWZ0djdqZzN4cHo4eGh2dWtkNDd2dWNhM2dkdXJmdnh1MiZlcD12MV9naWZzX3NlYXJjaCZjdD1n/du3J3cXyzhj75IOgvA/giphy.gif" width="20" height="20"> DevOps & Tools
+      </h3>
+      <div align="center">
+        <img src="https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+        <img src="https://img.shields.io/badge/-GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+        <img src="https://img.shields.io/badge/-Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
+      </div>
+    </td>
+  </tr>
+</table>
 
 ---
 
