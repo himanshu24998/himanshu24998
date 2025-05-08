@@ -120,9 +120,9 @@ I specialize in **Next.js**, creating high-performance web applications that **e
 
 <div align="center">
   <h2>
-    <img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" height="30" style="margin-right: 10px;">
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" width="30" height="30" style="margin-right: 10px;">
     <b>Visitor Count</b>
-    <img src="https://media.giphy.com/media/QaMcXSekUWx7aogAUr/giphy.gif" width="30" height="30" style="margin-left: 10px;">
+    <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Eyes.png" width="30" height="30" style="margin-left: 10px;">
   </h2>
   <img src="https://profile-counter.glitch.me/{himanshu24998}/count.svg" alt="Himanshu :: Visitor's Count" />
 </div>
