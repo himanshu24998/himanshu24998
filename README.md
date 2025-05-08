@@ -1,5 +1,10 @@
-![MasterHead](https://img.freepik.com/free-vector/gradient-business-linkedin-banner_23-2150091566.jpg?t=st=1731044202~exp=1731047802~hmac=07a2bd80a3b13d36e229208f01e2cd69ba1656ee578df5f624a1c841fdaccda3&w=1380)
-<h1 align="center">Hi 👋, I'm Himanshu Singhal</h1>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3759de&height=120&section=header" alt="header"/> 
+<h1 align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Montserrat&weight=500&size=25&duration=4500&pause=500&color=D9BED1&width=435&lines=Hi+👋%2C+it's+Himanshu+Singhal;Thank+you+for+visiting." alt="Business Analyst"/>
+</a>
+</h1>
+
 <h3 align="center">Next.js Developer | Passionate about Building Scalable and Engaging Web Apps</h3>
 
 <table>
@@ -163,3 +168,5 @@ I specialize in **Next.js**, creating high-performance web applications that **e
   </h2>
   <img src="https://profile-counter.glitch.me/{himanshu24998}/count.svg" alt="BankkRoll :: Visitor's Count" />
 </div>
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3759de&height=120&section=footer" alt="footer"/>
