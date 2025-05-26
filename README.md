@@ -41,7 +41,7 @@ I specialize in **Next.js**, creating high-performance web applications that **e
 </a>
 
 <a href="https://himanshu-portfolio-resume.vercel.app/" target="_blank">
-  <img align="center" src="https://media-hosting.imagekit.io/4b0409d179e5401f/world-wide-web.png?Expires=1841299283&Key-Pair-Id=K2ZIVPTIP2VGHC&Signature=1trwpSz2mDxyfbGgC7vaUI0gvFYxLVY5cX6HYqDg41pEFuD9GtIh6Cvgt0ng-WPEremfAoqJQkCudRUl5wdq-ASUYPyQFbUr2n0FVt-XFGusSMjqqEzxFSmfm2TpmXpXR3-hLYNH0pvUuHafMie-ZBzKkNeUz~gDv3cjQoUKwE2V1FX7wxk1Jpm--qmDbupY2ilJ010Mi6IltFUqUIThaEv35Iamie7hnPKFIpbU2cfMNBw1-dyhlwRH-OYR-c6601jhrdex8O8ODy--VmDEbj1poGf3Bl1i97z37zuQAqL8pP4zUUsIldfELZirpChx1Di3hTtghwszLWK61ukigg__" alt="himanshu24998" height="30" width="30"/>
+  <img align="center" src="https://www.eurjchem.com/public/site/images/HakanArslan/web.png" alt="himanshu24998" height="30" width="30"/>
 </a>
 
 ---
