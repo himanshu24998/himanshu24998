@@ -27,7 +27,7 @@ I specialize in **Next.js**, creating high-performance web applications that **e
 <td width="50%" align="center">
 
 <img src="https://media3.giphy.com/media/v1.Y2lkPTc5MGI3NjExZWZzcW11MGtmeDVtMXd6dTJkNTR2aDVhMTJkbzZ1MzFhb3dsMnUxZSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/QDjpIL6oNCVZ4qzGs7/giphy.gif" width="300"><br><br>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=himanshu24998&langs_count=8&layout=compact&theme=react&border_color=0EA5E9&bg_color=0D1117&title_color=0EA5E9&icon_color=0EA5E9" height="180em" />
+
 
 </td>
 </tr>
