@@ -18,8 +18,7 @@ I specialize in **Next.js**, creating high-performance web applications that **e
 🔹 **Projects include:** 3D & AR-powered restaurant menus and an intuitive online invoice generator  
 🔹 **Passionate about:** Web performance, user-centric design, and cutting-edge frontend technologies  
 
-📫 **How to reach me:** agarwalh249@gmail.com  
-📄 **Resume:** [View Here](https://drive.google.com/file/d/1bYM6zd5IobYsMWEzVK45cUatFurtNUpS/view?usp=drive_link)  
+📫 **How to reach me:** agarwalh249@gmail.com    
 
 ⚡ **Fun Fact:** When I'm not coding, I enjoy **video editing and music production**  
 
