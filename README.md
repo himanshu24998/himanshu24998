@@ -1,3 +1,5 @@
+
+
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=0EA5E9&height=120&section=header" alt="header"/> 
 <h1 align="center">
   <a href="https://git.io/typing-svg">
@@ -46,6 +48,13 @@ I specialize in **Next.js**, creating high-performance web applications that **e
 ---
 <div align="center">
   <img src="https://github.com/himanshu24998/himanshu24998/blob/output/github-snake-dark.svg" width="100%" alt="Snake animation"/>
+</div>
+
+---
+
+<div align="center">
+  <a href="https://gitroll.io/profile/uzXxbSiEH2FOx2fMyvZuXFzbdfVv1" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uzXxbSiEH2FOx2fMyvZuXFzbdfVv1?theme=light" alt="GitRoll Profile Badge"/></a>
+
 </div>
 
 ---
