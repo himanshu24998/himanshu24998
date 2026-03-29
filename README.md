@@ -52,6 +52,12 @@ I specialize in **Next.js**, creating high-performance web applications that **e
 
 ---
 
+<!-- Pac-Man -->
+![Pac-Man](/.github/images/github-pacman.svg#gh-light-mode-only)
+![Pac-Man Dark](/.github/images/github-pacman-dark.svg#gh-dark-mode-only)
+
+-----
+
 <div align="center">
   <a href="https://gitroll.io/profile/uzXxbSiEH2FOx2fMyvZuXFzbdfVv1" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uzXxbSiEH2FOx2fMyvZuXFzbdfVv1?theme=light" alt="GitRoll Profile Badge"/></a>
 
