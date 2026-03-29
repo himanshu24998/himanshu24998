@@ -1,0 +1,74 @@
+name: GitHub Snake & Pac-Man Game
+
+on:
+  schedule:
+    - cron: "0 0 * * *"
+  workflow_dispatch:
+  push:
+    branches:
+      - main
+
+jobs:
+  generate:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    permissions:
+      contents: write
+
+    steps:
+      # Step 1: Checkout the repository
+      - name: Checkout Repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      # Step 2: Ensure .github/images exists
+      - name: Ensure .github/images exists
+        run: mkdir -p .github/images
+
+      # Step 3: Generate Snake Animations
+      - name: Generate GitHub Contributions Snake Animations
+        uses: Platane/snk/svg-only@v3
+        continue-on-error: true
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          outputs: |
+            .github/images/github-snake.svg
+            .github/images/github-snake-dark.svg?palette=github-dark
+            .github/images/ocean.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
+      # Step 4: Generate Pac-Man Contribution Graph
+      - name: Generate GitHub Contribution Grid Pac-Man
+        uses: abozanona/pacman-contribution-graph@main
+        continue-on-error: true
+        with:
+          github_user_name: ${{ github.repository_owner }}
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+
+      # Step 5: Copy Pac-Man SVGs to .github/images
+      - name: Copy Pac-Man SVGs to .github/images
+        if: always()
+        run: |
+          if [ -f dist/pacman-contribution-graph.svg ]; then
+            cp -v dist/pacman-contribution-graph.svg .github/images/github-pacman.svg
+          fi
+          if [ -f dist/pacman-contribution-graph-dark.svg ]; then
+            cp -v dist/pacman-contribution-graph-dark.svg .github/images/github-pacman-dark.svg
+          fi
+
+      # Step 6: List generated files (for debugging)
+      - name: List Generated Files
+        if: always()
+        run: ls -al .github/images/
+
+      # Step 7: Commit & Push all images to main
+      - name: Commit & Push Images
+        if: always()
+        run: |
+          git config user.name "github-actions"
+          git config user.email "github-actions@github.com"
+          git add .github/images/
+          git commit -m "chore: update snake & pacman animations [skip ci]" || echo "No changes to commit"
+          git push origin main
