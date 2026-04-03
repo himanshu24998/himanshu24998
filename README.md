@@ -45,18 +45,17 @@ I specialize in **Next.js**, creating high-performance web applications that **e
   <img align="center" src="https://www.eurjchem.com/public/site/images/HakanArslan/web.png" alt="himanshu24998" height="30" width="30"/>
 </a>
 
----
+<!-- Snake -->
 <div align="center">
-  <img src="https://github.com/himanshu24998/himanshu24998/blob/output/github-snake-dark.svg" width="100%" alt="Snake animation"/>
+  <img src="/.github/images/github-snake.svg#gh-light-mode-only" width="100%" alt="Snake animation"/>
+  <img src="/.github/images/github-snake-dark.svg#gh-dark-mode-only" width="100%" alt="Snake animation"/>
 </div>
 
----
-
 <!-- Pac-Man -->
-![Pac-Man](/.github/images/github-pacman.svg#gh-light-mode-only)
-![Pac-Man Dark](/.github/images/github-pacman-dark.svg#gh-dark-mode-only)
-
------
+<div align="center">
+  <img src="/.github/images/github-pacman.svg#gh-light-mode-only" width="100%" alt="Pac-Man animation"/>
+  <img src="/.github/images/github-pacman-dark.svg#gh-dark-mode-only" width="100%" alt="Pac-Man animation"/>
+</div>
 
 <div align="center">
   <a href="https://gitroll.io/profile/uzXxbSiEH2FOx2fMyvZuXFzbdfVv1" target="_blank"><img src="https://gitroll.io/api/badges/profiles/v1/uzXxbSiEH2FOx2fMyvZuXFzbdfVv1?theme=light" alt="GitRoll Profile Badge"/></a>
